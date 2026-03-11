@@ -1,1 +1,2 @@
 # Siraj
+Siraj is a web-based platform designed to monitor and analyze the performance of solar panel systems. The system collects and displays important data such as energy production, panel efficiency, temperature, and energy storage levels through a clear and user-friendly dashboard. By analyzing this data, Siraj helps predict potential failures and provides live alerts before issues occur. This enables efficient maintenance of solar panel systems, reduces energy loss, increases system efficiency, and contributes to a more sustainable environment.
