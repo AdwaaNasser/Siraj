@@ -1,4 +1,6 @@
-Devolopment Team:
+# SIRAJ Solar Panel Management System
+
+## developers
 
 Aljoury Alreemi 445200074 
 
