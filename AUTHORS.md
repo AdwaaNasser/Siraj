@@ -8,6 +8,6 @@ Khadijah Alshehri | 445202138  |  [GitHub](https://github.com/ka79023)
 
 Adhwaa Alhuzani | 444201650  |  [GitHub](https://github.com/AwaaNasser)
 
-Noura Almuayli | 445201323 |
+Noura Almuayli | 445201323 |  [GitHub](https://github.com/Nouramua)
 
 Alanoud Alsanad | 445202240 |   [GitHub](https://github.com/alanoudalsanad)
