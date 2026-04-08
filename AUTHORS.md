@@ -2,7 +2,7 @@
 
 ## developers
 
-Aljoury Alreemi | 445200074 | Full Stack Developer |  [GitHub](https://github.com/AljoryAnas)
+Aljoury Alreemi | 445200074 |  [GitHub](https://github.com/AljoryAnas)
 
 Khadijah Alshehri | 445202138  |  [GitHub](https://github.com/ka79023)
 
