@@ -2,12 +2,12 @@
 
 ## developers
 
-Aljoury Alreemi | 445200074 |  [GitHub](https://github.com/AljoryAnas)
+Aljoury 
 
-Khadijah Alshehri | 445202138  |  [GitHub](https://github.com/ka79023)
+Khadijah 
 
-Adhwaa Alhuzani | 444201650  |  [GitHub](https://github.com/AwaaNasser)
+Adhwaa 
 
-Noura Almuayli | 445201323 |  [GitHub](https://github.com/Nouramua)
+Noura 
 
-Alanoud Alsanad | 445202240 |   [GitHub](https://github.com/alanoudalsanad)
+Alanoud 
